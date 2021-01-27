@@ -1,0 +1,8 @@
+1. os.environ
+2. QUERY_STRING
+3. HTTP_USER_AGENT
+4. through sys.stdin. 
+5. Set-Cookie: <cookie-name>=<cookie-value>
+6. 
+7. Cookies store data that the webserver desginers decided is important. its a container for data... though it can be used for other things. The cookie is sent back with requests
+8. https://github.com/Vinen88/cgi-lab.git
